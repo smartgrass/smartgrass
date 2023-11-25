@@ -53,26 +53,41 @@ fantasy
 
 ## 神器
 ### 1.编译
+
 1.Fast Script Reload 快速重编译
+
 https://github.com/handzlikchris/FastScriptReload
+
 2.ILSpy 反编译
+
 https://github.com/icsharpcode/ILSpy
+
 3.dll 反编译
+
 打开 Developer Command Prompt for vs 2019
+
 dumpbin /exports xxxx.dll
 
 4.反编译 加修改
+
 https://github.com/dnSpy/dnSpy
 
 ### 2.图像识别
+
 IronOcr C#图像识别
+
 https://ironsoftware.com/csharp/ocr/#trial-license-after-download
+
 tesseractOCR 开源图像识别库, 使用cmd执行
+
 https://github.com/UB-Mannheim/tesseract
 
 ### 3.vpn
+
 0dcloud 零点云 (推荐)
+
 https://www.0dianyun14.xyz/
+
 abc加速器
 
 ### 4.Git工具
@@ -80,17 +95,27 @@ Git Extensions
 SmartGit
 GitHub Desktop (官方的工具 对网络不好时 有特攻吧)
 ### 5.日常工具推荐
+
 DeskPins 窗口置顶工具
+
 https://efotinis.neocities.org/deskpins/
+
 EasyCopy 复制粘贴板
+
 https://github.com/smartgrass/EasyCopy-WinFrom
+
 语雀 在线笔记 多端同步
+
 其他
+
 nuget位置
+
 C:\Users\admin\.nuget\packages
 
 ## 美术资源
+
 搜索无版权资源样式"royalty free BGM sites"
+
 ### 音效
 https://www.soundsnap.com/
 
