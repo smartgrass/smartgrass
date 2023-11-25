@@ -2,17 +2,17 @@
 
 
 ## Shader
-games101笔记
+### games101笔记
 https://zhuanlan.zhihu.com/p/394932478
-扫描
+### 扫描
 https://zhuanlan.zhihu.com/p/143788955
-各种初级效果
+### 各种初级效果
 https://github.com/csdjk/LearnUnityShader
- 消融
+### 消融
 https://www.youtube.com/watch?v=jdAbVkre8cw
- 变换
+### 变换
 https://www.youtube.com/watch?v=zksLtFb2wAQ
-水纹
+### 水纹
 https://github.com/dtysky/paradise/tree/master/src/collection/ShaderWaterRipple
  
 
@@ -31,18 +31,19 @@ https://zhuanlan.zhihu.com/p/591864923
  
 ## UI
 ### 1.UI特效优化
-Particle Effect For UGUI(UI Particle)
-性能更好的ui特效解决方案
-->Mesh
+#### Particle Effect For UGUI(UI Particle)
+性能更好的ui特效解决方案->Mesh
 https://github.com/mob-sakai/ParticleEffectForUGUI
 
-2.一个dc绘制所有血条
+#### 2.一个dc绘制所有血条
 https://github.com/sinbad/UnityInstancedHealthBars
 
 
 ## 联网
 ### 联网-FPS
+
 https://www.youtube.com/watch?v=fVotjwJQ5zM
+
 https://github.com/tom-weiland
 
 ### C#服务器框架
@@ -87,28 +88,39 @@ nuget位置
 C:\Users\admin\.nuget\packages
 
 ## 美术资源
-搜索无版权资源样式
-royalty free BGM sites
+搜索无版权资源样式"royalty free BGM sites"
 ### 音效
 https://www.soundsnap.com/
+
 https://freesound.org/
+
 https://www.zapsplat.com/
+
 ### 模型
+
 角色模型
+
  https://hub.vroid.com 
+ 
 模型
+
 https://poly.pizza/
+
 卡通风模型+ui+音效
+
 https://kenney.nl/
 
 模型,原型都有,界面需要翻译
+
 https://opengameart.org/
 
 ### 视频制作素材
+
 https://pixabay.com/sound-effects/
 
 ### 少用但可能用到
 三维软件与Unity的完美协作工具
+
 https://github.com/Unity-Technologies/MeshSyncDCCPlugins
 
 
