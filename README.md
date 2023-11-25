@@ -16,3 +16,4 @@ https://github.com/smartgrass/EasyCopy-WinFrom
 
 
 ## 资料收集贴(挖坑)
+https://github.com/smartgrass/ReadMe/blob/main/NiceProject.md
