@@ -40,8 +40,8 @@
 		* 7.2.1. [联网Fps - Multiplayer FPS Template](#Fps-MultiplayerFPSTemplate)
 		* 7.2.2. [控制模板](#-1)
 		* 7.2.3. [anyrpg模板 (包含ui和音效)](#anyrpgui)
-		* 7.2.4. [rpg模板: Warrior Pack Bundle 2 FREE](#rpg:WarriorPackBundle2FREE)
-		* 7.2.5. [Game Kit Controller : 付费游戏模板,功能较全](#GameKitController:)
+		* 7.2.4. [rpg模板(Warrior Pack Bundle 2 FREE)](#WarriorPackBundle2FREE)
+		* 7.2.5. [Game Kit Controller 付费游戏模板,功能较全](#GameKitController)
 * 8. [工具/神器](#-1)
 	* 8.1. [1.编译](#-1)
 		* 8.1.1. [1.ILSpy 反编译](#ILSpy)
@@ -219,12 +219,12 @@ unity商店
 ####  7.2.3. <a name='anyrpgui'></a>anyrpg模板 (包含ui和音效)
 [https://assetstore.unity.com/packages/templates/systems/anyrpg-core-234361#description](https://assetstore.unity.com/packages/templates/systems/anyrpg-core-234361#description)
 
-####  7.2.4. <a name='rpg:WarriorPackBundle2FREE'></a>rpg模板: Warrior Pack Bundle 2 FREE
+####  7.2.4. <a name='WarriorPackBundle2FREE'></a>rpg模板: Warrior Pack Bundle 2 FREE
 [https://assetstore.unity.com/packages/3d/animations/warrior-pack-bundle-2-free-42454](https://assetstore.unity.com/packages/3d/animations/warrior-pack-bundle-2-free-42454)
 ![image.png](https://cdn.nlark.com/yuque/0/2024/png/35554785/1704215946420-b8424821-6dfb-4123-bcae-e6e54b4457de.png#averageHue=%23484646&clientId=ud75f38b0-7710-4&from=paste&height=460&id=EKVEr&originHeight=633&originWidth=1110&originalType=binary&ratio=1.375&rotation=0&showTitle=false&size=401974&status=done&style=none&taskId=u3d335d56-6545-47f1-a3dc-97bd8a93367&title=&width=807.2727272727273)
 
 
-####  7.2.5. <a name='GameKitController:'></a>Game Kit Controller : 付费游戏模板,功能较全
+####  7.2.5. <a name='GameKitController'></a>Game Kit Controller (付费游戏模板,功能较全)
 
 ##  8. <a name='-1'></a>工具/神器
 ###  8.1. <a name='-1'></a>1.编译
