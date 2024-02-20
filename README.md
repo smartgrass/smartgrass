@@ -7,7 +7,7 @@
 
 [windows复制粘贴板](https://github.com/smartgrass/EasyCopy-WinFrom)
 
-[unity工具集 (挖坑)](https://github.com/smartgrass/XiaoCaoKit)
+[unity工具集(开发中)](https://github.com/smartgrass/XiaoCaoKit)
 
 [Unity小工具](https://github.com/smartgrass/XiaoCaoTools)
 
