@@ -5,7 +5,7 @@
 
 [pcr自动任务](https://github.com/smartgrass/AutoPcr)
 
-[windows复制粘贴板](https://github.com/smartgrass/EasyCopy-WinFrom)
+[Windows复制粘贴板](https://github.com/smartgrass/EasyCopy-WinFrom)
 
 [unity工具集(开发中)](https://github.com/smartgrass/XiaoCaoKit)
 
