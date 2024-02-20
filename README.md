@@ -5,10 +5,10 @@
 
 [Pcr自动任务](https://github.com/smartgrass/AutoPcr)
 
-[Windows复制粘贴板](https://github.com/smartgrass/EasyCopy-WinFrom)
+[EasyCopy-Windows快捷粘贴板](https://github.com/smartgrass/EasyCopy-WinFrom)
 
-[Unity工具集(开发中)](https://github.com/smartgrass/XiaoCaoKit)
+[XiaoCaoKit-Unity工具集(开发中)](https://github.com/smartgrass/XiaoCaoKit)
 
-[Unity小工具](https://github.com/smartgrass/XiaoCaoTools)
+[XiaoCaoTools-Unity小工具](https://github.com/smartgrass/XiaoCaoTools)
 
 [Nice项目标记](https://github.com/smartgrass/ReadMe/blob/main/NiceProject.md)
