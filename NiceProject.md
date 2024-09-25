@@ -256,7 +256,7 @@ dumpbin /exports xxxx.dll
 ###  8.5. <a name='-1'></a>5.日常工具推荐
 ####  8.5.1. <a name='DeskPins'></a>DeskPins 窗口置顶工具
 [https://efotinis.neocities.org/deskpins/](https://efotinis.neocities.org/deskpins/)
-####  8.5.2. <a name='EasyCopy'></a>EasyCopy 复制粘贴板
+####  8.5.2. <a name='EasyCopy'></a>EasyCopy 复制粘贴板(私货)
 [https://github.com/smartgrass/EasyCopy-WinFrom](https://github.com/smartgrass/EasyCopy-WinFrom)
 ####  8.5.3. <a name='-1'></a>语雀  在线笔记 多端同步
 
